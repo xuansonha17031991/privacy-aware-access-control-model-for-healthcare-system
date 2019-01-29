@@ -1,0 +1,58 @@
+<div class='main-nav'>
+  <div class='navbar'>
+    <div class='navbar-header'>
+      <button type='button' class='navbar-toggle' data-toggle='collapse' data-target='.navbar-collapse'>
+                <span class='sr-only'>Toggle navigation</span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+                <span class='icon-bar'></span>
+            </button>
+      <a class='navbar-brand' [routerLink]="['/home']">Angular 4 Universal & ASP.NET Core 2.0 </a>
+    </div>
+    <div class='clearfix'></div>
+    <div class='navbar-collapse collapse'>
+      <ul class='nav navbar-nav'>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/home']">
+            <span class='glyphicon glyphicon-home'></span> {{ 'HOME' | translate }}
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/privacy_checking']">
+            <span class='glyphicon glyphicon-th-list'></span> Privacy Checking
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/access_control_policy']">
+            <span class='glyphicon glyphicon-th-list'></span> Access Control Policy
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/privacy_policy']">
+            <span class='glyphicon glyphicon-th-list'></span> Privacy Policy
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/sub_privacy_policy']">
+            <span class='glyphicon glyphicon-th-list'></span> Sub Privacy Policy
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/policy_review']">
+            <span class='glyphicon glyphicon-th-list'></span> Policy Review
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/privacy_domain']">
+            <span class='glyphicon glyphicon-th-list'></span> Privacy Domain
+          </a>
+        </li>
+        <li [routerLinkActive]="['link-active']">
+          <a [routerLink]="['/policy_management']">
+            <span class='glyphicon glyphicon-th-list'></span> Policy Management
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

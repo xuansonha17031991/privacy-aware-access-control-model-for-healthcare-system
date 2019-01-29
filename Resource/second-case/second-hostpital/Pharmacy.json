@@ -1,0 +1,100 @@
+{ "_id" : { "$oid" : "5c0cd061177383268341e20f" }, "id_pharmacy" : "61df3600-cce5-475e-a36d-f2983279e20e", "name_pharmacy" : "Losartan Potassium" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e211" }, "id_pharmacy" : "f450baee-f48f-40f7-bfa2-c71c312a6dbe", "name_pharmacy" : "Acarbose" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e213" }, "id_pharmacy" : "a3eaaea7-27d2-4a8a-8264-4400b7fcf39d", "name_pharmacy" : "Gentamicin" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e215" }, "id_pharmacy" : "32430fd2-ca8c-4a2a-ae49-9e275207af90", "name_pharmacy" : "Mirtazapine" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e217" }, "id_pharmacy" : "153acf79-b35e-4c9f-9c40-b3b2b1d88aff", "name_pharmacy" : "Intestaforce" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e219" }, "id_pharmacy" : "c6f6f8e5-73cb-4efe-91f7-4ac75f17bb2b", "name_pharmacy" : "Loxapine" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e21b" }, "id_pharmacy" : "1eb6b7ab-0c7d-42c4-a933-5f1ec1d8c144", "name_pharmacy" : "DIGOX" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e21d" }, "id_pharmacy" : "088547c1-9271-4351-858d-511849bb8181", "name_pharmacy" : "Ketotifen Fumarate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e21f" }, "id_pharmacy" : "8a15acad-4f5a-47e8-a976-88bc151b887b", "name_pharmacy" : "Anticavity" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e221" }, "id_pharmacy" : "6b7c15f3-1909-482e-83da-602515902fa2", "name_pharmacy" : "Standardized Kentucky (June) Bluegrass Pollen" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e223" }, "id_pharmacy" : "91d051e1-e0c1-49ba-9e56-817406620307", "name_pharmacy" : "ATACAND" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e225" }, "id_pharmacy" : "15bedba1-9921-4d4e-a97d-3ad4b8d06f9f", "name_pharmacy" : "Kidney Tonic" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e227" }, "id_pharmacy" : "193d8a14-9afa-4e93-9d11-0efa6790799d", "name_pharmacy" : "Orajle Anti-Bacterial Rinse for Bleeding Gums" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e229" }, "id_pharmacy" : "245cd9fb-5768-4c70-be44-54007c6e7e0c", "name_pharmacy" : "Synthroid" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e22b" }, "id_pharmacy" : "410ef247-9c81-43fb-838b-c8d27f6f8242", "name_pharmacy" : "Citalopram" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e22d" }, "id_pharmacy" : "f01bf1f0-ff80-4161-afb0-e1ee30d538fc", "name_pharmacy" : "Lucky" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e22f" }, "id_pharmacy" : "68ef2694-091b-493d-8939-e20d4048e1c9", "name_pharmacy" : "Greasewood" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e231" }, "id_pharmacy" : "51f2ffc5-b069-4e50-a07c-559dc0e2b1ea", "name_pharmacy" : "COMPLIANCE DISHWASHING LIQUID" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e233" }, "id_pharmacy" : "63aa4a6d-1f45-421b-84cf-bd707ec6afd5", "name_pharmacy" : "Metoprolol Tartrate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e235" }, "id_pharmacy" : "6e89756a-16cb-467f-b3e2-6cca011ab1cd", "name_pharmacy" : "Zovia 1/50E-28" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e237" }, "id_pharmacy" : "83e07bde-1a15-4161-8a0a-766e3ba4f6ca", "name_pharmacy" : "anefrin nasal" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e239" }, "id_pharmacy" : "25030d9e-c943-4da4-8994-7b924428535f", "name_pharmacy" : "Pussy Willow" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e23b" }, "id_pharmacy" : "03fc197f-973e-4dc9-b279-c97b709ffa54", "name_pharmacy" : "Ketamine Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e23d" }, "id_pharmacy" : "9ba18d45-f980-4f6d-9988-b70ad035c400", "name_pharmacy" : "Omeprazole" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e23f" }, "id_pharmacy" : "97faa944-d876-450f-b1a8-2dee02ded625", "name_pharmacy" : "Shang Shi Zhi Tong Pain Relieving Plaster" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e241" }, "id_pharmacy" : "41e517af-9a9c-4a6a-9326-d920c67dd0b9", "name_pharmacy" : "MEND AID Antibacterial Adhesive Bandages" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e243" }, "id_pharmacy" : "48e4f016-e5ce-4400-94c6-0ce201ae1777", "name_pharmacy" : "Venlafaxine Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e245" }, "id_pharmacy" : "bc5971c7-3590-4850-875b-32f33ee4131b", "name_pharmacy" : "Treatment Set TS350094" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e247" }, "id_pharmacy" : "891a1649-5775-4154-8f9e-93dbf270f3fc", "name_pharmacy" : "Potassium Citrate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e249" }, "id_pharmacy" : "bd01e904-401e-4e66-a62a-198038614a74", "name_pharmacy" : "Metab" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e24b" }, "id_pharmacy" : "42df3c65-ae39-4df3-8e1f-f93a140573f9", "name_pharmacy" : "Isoniazid" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e24d" }, "id_pharmacy" : "7f5775e7-60c8-4539-9993-ee8c28401dc7", "name_pharmacy" : "Bermuda Grass, Standardized" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e24f" }, "id_pharmacy" : "423ad800-6d9c-4e84-b65a-69b5c7e3c07d", "name_pharmacy" : "Smart Sense" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e251" }, "id_pharmacy" : "a9a93709-775d-4ac0-a79f-2c525f830a80", "name_pharmacy" : "Adenosine" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e253" }, "id_pharmacy" : "a966caa2-9821-4960-a393-a24df73ccff7", "name_pharmacy" : "GILDESS FE 1/20" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e255" }, "id_pharmacy" : "7b3a8a2a-130a-43c3-bcdd-b85110eadbca", "name_pharmacy" : "Oxycodone Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e257" }, "id_pharmacy" : "b6aebf7f-fb3f-4abd-b08e-7d6dccfe61e6", "name_pharmacy" : "Cold Spot" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e259" }, "id_pharmacy" : "227d1cd4-ad78-42e7-a99a-bc5e63a38941", "name_pharmacy" : "Exuviance CoverBlend Skin Caring Foundation" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e25b" }, "id_pharmacy" : "216bd2f8-5c67-4d58-81c5-5c5556951835", "name_pharmacy" : "Oxybutynin Chloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e25d" }, "id_pharmacy" : "b5aed3a9-c305-47ab-b3fb-a049cb034130", "name_pharmacy" : "Hand Sanitizer" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e25f" }, "id_pharmacy" : "63cc9f25-6519-429a-8796-14062e1d8fd4", "name_pharmacy" : "RE-NUTRIV" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e261" }, "id_pharmacy" : "25defb5b-a54f-448f-b6a1-d457a5c69413", "name_pharmacy" : "Topcare Nasal Four" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e263" }, "id_pharmacy" : "ec344819-bb7b-4ade-8f5b-2e0e9c1caa15", "name_pharmacy" : "LEVOTHYROXINE SODIUM" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e265" }, "id_pharmacy" : "55014c4b-2735-4733-8dd5-c3ab24be6c40", "name_pharmacy" : "meloxicam" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e267" }, "id_pharmacy" : "8612d379-179e-48cc-9724-85c4e765f37c", "name_pharmacy" : "Phenylephrine Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e269" }, "id_pharmacy" : "d6921bbc-9e90-4f3e-a880-8e1687062fb9", "name_pharmacy" : "Satos Corn and Callus Remover" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e26b" }, "id_pharmacy" : "ab9fbe7c-7ba1-4633-957d-40ec5bf712a5", "name_pharmacy" : "Astound Antibacterial" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e26d" }, "id_pharmacy" : "c77ad6fa-67e8-4dae-8c9e-76962c04ee93", "name_pharmacy" : "Hydroxyzine Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e26f" }, "id_pharmacy" : "6fccd3bb-8b20-4cca-8b28-d2e30deccb2b", "name_pharmacy" : "Divalproex Sodium" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e271" }, "id_pharmacy" : "19771380-7e8e-4631-9f6d-e2eb140d7657", "name_pharmacy" : "Sulfamethoxazole and Trimethoprim" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e273" }, "id_pharmacy" : "1268ebe8-7d4a-4bf6-991c-c971b9b3c2a8", "name_pharmacy" : "Gabapentin" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e275" }, "id_pharmacy" : "29d3a706-b255-4b8a-a1e2-0d21271d3100", "name_pharmacy" : "MIDAZOLAM HYDROCHLORIDE" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e277" }, "id_pharmacy" : "b8af05e3-5f3a-4761-802c-cdc73b61cb95", "name_pharmacy" : "Iceberg Lettuce" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e279" }, "id_pharmacy" : "7a4399be-a2b8-44d7-911f-7590fb74aaf9", "name_pharmacy" : "Irinotecan Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e27b" }, "id_pharmacy" : "f593a592-9958-436c-9d61-f7845a7cd763", "name_pharmacy" : "PROSTATE HP" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e27d" }, "id_pharmacy" : "bc77d8fa-fcc9-4876-81c1-662cce019d69", "name_pharmacy" : "RENEWAL" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e27f" }, "id_pharmacy" : "a8391032-50df-43ce-bc18-082d187bdbfc", "name_pharmacy" : "HYDROCODONE BITARTRATE AND ACETAMINOPHEN" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e281" }, "id_pharmacy" : "e1bcf189-29b2-4473-82b1-ce1d762698ba", "name_pharmacy" : "Arthritis Plus Gel" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e283" }, "id_pharmacy" : "d9af70c7-e268-4403-99ee-70d0e6665f7b", "name_pharmacy" : "Lisinopril" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e285" }, "id_pharmacy" : "da617542-b483-4f0d-8377-309804005774", "name_pharmacy" : "Mushroom" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e287" }, "id_pharmacy" : "034c893b-d13d-4dbf-b030-b77d12698558", "name_pharmacy" : "Crest Pro-Health For Me" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e289" }, "id_pharmacy" : "43cd7259-c8c8-430a-803a-4f6b55352a1b", "name_pharmacy" : "Bryophyllum Argentum" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e28b" }, "id_pharmacy" : "28168861-acd9-4f7d-9225-a43bb9c53671", "name_pharmacy" : "Brome Grass" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e28d" }, "id_pharmacy" : "af99d820-fac9-4355-88c3-2fe71a5b61b2", "name_pharmacy" : "CLINIMIX E" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e28f" }, "id_pharmacy" : "1a263e43-f650-4e10-b4ee-b02255225414", "name_pharmacy" : "Acyclovir" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e291" }, "id_pharmacy" : "c720ba7f-2de7-4f16-acf1-68be473fd110", "name_pharmacy" : "Sodium Fluoride F 18" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e293" }, "id_pharmacy" : "1d26026c-1ea6-4e12-9bf0-06f38da39ba1", "name_pharmacy" : "HYDROCODONE BITARTRATE AND ACETAMINOPHEN" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e295" }, "id_pharmacy" : "d528db26-027a-4ece-a4c7-eadf2a91b866", "name_pharmacy" : "Antimonium Crudum" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e297" }, "id_pharmacy" : "016cd59a-59f4-4c8d-8efd-47d39d82b1a0", "name_pharmacy" : "Anti-Bacterial Hand" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e299" }, "id_pharmacy" : "f7d214c4-3402-456a-9c84-5eee081e638e", "name_pharmacy" : "JUNIPERUS CALIFORNICA POLLEN" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e29b" }, "id_pharmacy" : "c7c50e98-5466-4c15-bc62-2106a18f7c24", "name_pharmacy" : "DR. S. WONGS ACNE TREATMENT SULPHUR" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e29d" }, "id_pharmacy" : "a2808177-54a3-4fb1-8a83-9cca78151142", "name_pharmacy" : "Ondansetron" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e29f" }, "id_pharmacy" : "ae42252b-4239-434e-adb9-733a1ade7f4c", "name_pharmacy" : "Pantoprazole Sodium Delayed Release" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2a1" }, "id_pharmacy" : "37471fb6-54fe-47ae-a3be-ed67c42af983", "name_pharmacy" : "Vimpat" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2a3" }, "id_pharmacy" : "38479627-f30f-46f5-aef6-d87b4a6a9c95", "name_pharmacy" : "Hydrogen Peroxide" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2a5" }, "id_pharmacy" : "80d4fea2-00ca-4957-9319-629c20f7f2bf", "name_pharmacy" : "Canyon Ragweed Pollen" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2a7" }, "id_pharmacy" : "6fca7749-0954-42c4-93b6-5ba8cbd5e887", "name_pharmacy" : "Hydromorphone Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2a9" }, "id_pharmacy" : "6c8ba8e3-37ac-4962-85c8-3959c021f2a4", "name_pharmacy" : "Reguloid" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2ab" }, "id_pharmacy" : "d492acc5-6a89-4a4f-ab5a-073581363c24", "name_pharmacy" : "Hydralazine Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2ad" }, "id_pharmacy" : "847c19a9-9d79-4be5-9be8-29702ef67e13", "name_pharmacy" : "Amerfresh Medicated" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2af" }, "id_pharmacy" : "5f8be7e0-64d9-47a6-8569-b7d99b3fbc66", "name_pharmacy" : "MAX LAX" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2b1" }, "id_pharmacy" : "7070ce91-ed19-447e-be0f-b688a0339651", "name_pharmacy" : "Lenscale Quailbrush" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2b3" }, "id_pharmacy" : "7b0f6586-4ed8-4138-8933-8c9f3596f51a", "name_pharmacy" : "COLDS NAUSEA VOMITING" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2b5" }, "id_pharmacy" : "1c956f43-c652-4d69-95ef-b4b3070e0116", "name_pharmacy" : "Common Sagebrush" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2b7" }, "id_pharmacy" : "a94a848d-12f9-449d-88d6-7253ec708487", "name_pharmacy" : "LBEL MAXIMUM COMFORT AND LONG-LASTING FOUNDATION SPF 10" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2b9" }, "id_pharmacy" : "c2b7afc4-171b-49a0-b03a-e46baf9065aa", "name_pharmacy" : "Losartan Potassium and Hydrochlorothiazide" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2bb" }, "id_pharmacy" : "b066ed30-d682-4226-8973-7eeb03021486", "name_pharmacy" : "Metoprolol succinate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2bd" }, "id_pharmacy" : "7c2011ff-627d-4379-83b8-8315791196c2", "name_pharmacy" : "TAMNAMO PLUS VITAL HAIR" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2bf" }, "id_pharmacy" : "27fed76c-f0f6-406f-b621-e261ba4ab8b1", "name_pharmacy" : "Carbidopa and Levodopa" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2c1" }, "id_pharmacy" : "b30f63dd-6306-4da6-842a-228594e63b47", "name_pharmacy" : "ULORIC" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2c3" }, "id_pharmacy" : "ce6195f9-a675-4034-b5a4-4cda539d380e", "name_pharmacy" : "Chlordiazepoxide Hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2c5" }, "id_pharmacy" : "acb3aec4-0f64-44e2-b9d6-4a1cb7747bb6", "name_pharmacy" : "lice kit" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2c7" }, "id_pharmacy" : "5eada0f6-a3bf-40b7-8d60-71012620755f", "name_pharmacy" : "Carisoprodol" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2c9" }, "id_pharmacy" : "edfb74f4-bc32-42d8-9166-fed158dd0e64", "name_pharmacy" : "Morphine Sulfate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2cb" }, "id_pharmacy" : "0c914a52-e73c-466a-966f-c168451b18af", "name_pharmacy" : "Morphine Sulfate" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2cd" }, "id_pharmacy" : "a70ae1a9-4372-4ea6-b43c-2c7509e819ec", "name_pharmacy" : "Trospium Chloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2cf" }, "id_pharmacy" : "40a21c0e-11df-4503-8977-92a1903d16b2", "name_pharmacy" : "Antara" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2d1" }, "id_pharmacy" : "60467233-d17d-4b20-8cd2-ee9e3ffe3c8f", "name_pharmacy" : "Sinus Congestion and Pain" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2d3" }, "id_pharmacy" : "ddfba9d2-1805-47c5-b1c9-00f3a55bb29f", "name_pharmacy" : "fexofenadine hydrochloride" }
+{ "_id" : { "$oid" : "5c0cd061177383268341e2d5" }, "id_pharmacy" : "63048840-6c8c-428f-a6e7-9c1987fb94bc", "name_pharmacy" : "REPASKIN BODY LOTION, BROAD SPECTRUM SPF 50" }
